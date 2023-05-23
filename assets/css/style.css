@@ -1,0 +1,24 @@
+@import "./partials/fonts.css";
+
+#one {
+    background-color:blanchedalmond;
+    width: 200px;
+    margin: 30px;
+    height: 200px;
+
+}
+
+#two {
+    background-color:aqua;
+    width: 200px;
+    margin: 30px;
+    height: 200px;
+}
+
+.o-title {
+    font-family: Pangolin;
+}
+
+.t-title {
+    font-family: Roboto;
+}
